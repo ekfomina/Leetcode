@@ -1,5 +1,5 @@
 n=9
-k=2678
+k=267812
 import itertools
 import time
 start_time = time.time()
